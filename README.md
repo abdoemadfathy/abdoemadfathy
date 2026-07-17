@@ -1,4 +1,4 @@
-# Hey 👋, I'm Abdulrahman Emad
+# Hey 👋, I'm Abdulrahman Emad Fathy
 
 ### Software QA & Test Automation Engineer
 
@@ -61,7 +61,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/abdulrahmanemadfathy" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -69,12 +71,12 @@
 ## 📬 Contact
 
 - 📧 **Email:** abdoemadfathy1@gmail.com
-- 💼 **LinkedIn:** [Abdulrahman Emad](www.linkedin.com/in/abdulrahmanemadfathy)
+- 💼 **LinkedIn:** [Abdulrahman Emad](https://linkedin.com/in/abdulrahmanemadfathy)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark" alt="Abdulrahman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark&hide_border=true" alt="Abdulrahman's GitHub stats" />
 </p>
