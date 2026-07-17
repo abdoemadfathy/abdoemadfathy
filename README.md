@@ -69,7 +69,7 @@
 ## 📬 Contact
 
 - 📧 **Email:** abdoemadfathy1@gmail.com
-- 💼 **LinkedIn:** [Abdulrahman Emad](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- 💼 **LinkedIn:** [Abdulrahman Emad](www.linkedin.com/in/abdulrahmanemadfathy)
 
 ---
 
