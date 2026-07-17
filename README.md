@@ -68,9 +68,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark&hide_border=true" alt="Abdulrahman's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark&hide_border=true" alt="Abdulrahman's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoemadfathy&theme=dark&hide_border=true" alt="Abdulrahman's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdoemadfathy&theme=dark&hide_border=true" alt="Abdulrahman's GitHub Streak" />
+</p>
 </p>
