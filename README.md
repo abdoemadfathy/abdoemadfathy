@@ -58,16 +58,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/abdulrahmanemadfathy" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 ## 📬 Contact
 
 - 📧 **Email:** abdoemadfathy1@gmail.com
@@ -78,5 +68,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark&hide_border=true" alt="Abdulrahman's GitHub stats" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=abdoemadfathy&show_icons=true&theme=dark&hide_border=true" alt="Abdulrahman's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoemadfathy&theme=dark&hide_border=true" alt="Abdulrahman's GitHub Streak" />
 </p>
